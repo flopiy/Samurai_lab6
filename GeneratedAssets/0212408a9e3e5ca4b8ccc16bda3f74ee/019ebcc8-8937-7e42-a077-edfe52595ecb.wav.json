@@ -1,0 +1,15 @@
+{
+    "asset": "0212408a9e3e5ca4b8ccc16bda3f74ee",
+    "fileName": "019ebcc8-8937-7e42-a077-edfe52595ecb.wav",
+    "prompt": "Sharp sword swing whoosh, lightning-fast air slash, clean anime game sfx",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 10.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

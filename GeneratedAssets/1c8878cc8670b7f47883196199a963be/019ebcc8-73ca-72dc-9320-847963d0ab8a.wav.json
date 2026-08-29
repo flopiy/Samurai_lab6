@@ -1,0 +1,15 @@
+{
+    "asset": "1c8878cc8670b7f47883196199a963be",
+    "fileName": "019ebcc8-73ca-72dc-9320-847963d0ab8a.wav",
+    "prompt": "Deep traditional Japanese temple gong strike, long resonance fading out, high quality game audio sfx",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 10.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

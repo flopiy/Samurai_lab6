@@ -1,0 +1,15 @@
+{
+    "asset": "73efd598769a1e846bf30b6935637bce",
+    "fileName": "019ebcc8-88db-7d94-b83e-3f8ae6145d03.wav",
+    "prompt": "Sharp metal blade clashing, katana catch, loud metallic cling, tsing clank game sfx",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 10.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

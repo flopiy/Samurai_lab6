@@ -1,0 +1,19 @@
+{
+  "version": "1.0",
+  "lastUpdate": "2026-06-12T22:17:34.408Z",
+  "totalChanges": 2,
+  "changes": [
+    {
+      "type": "imported",
+      "path": "Assets/Samurai_lab6/README.md",
+      "oldPath": null,
+      "timestamp": "2026-06-12T22:17:34.408Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Samurai_lab6",
+      "oldPath": null,
+      "timestamp": "2026-06-12T22:17:34.408Z"
+    }
+  ]
+}

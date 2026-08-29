@@ -1,0 +1,15 @@
+{
+    "asset": "b66f7faa677ff8749b9f68d4552461d5",
+    "fileName": "019ebcc8-a2b7-7aea-b3e9-3ccf31621fcf.mp3",
+    "prompt": "Minimalist traditional Japanese folk music, silent and tense ambient atmosphere, solo shakuhachi flute and quiet shamisen strings",
+    "negativePrompt": "",
+    "model": "google-lyria-3-clip",
+    "modelName": "Google Lyria 3 Clip",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 10.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}
